@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testfirebase</string>
+    <string name="send_message">Sent Successfully</string>
+</resources>
